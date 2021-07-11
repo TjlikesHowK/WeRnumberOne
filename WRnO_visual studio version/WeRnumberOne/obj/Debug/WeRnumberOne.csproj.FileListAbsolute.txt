@@ -1,0 +1,80 @@
+C:\Users\tjlik\source\repos\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.exe.config
+C:\Users\tjlik\source\repos\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.exe
+C:\Users\tjlik\source\repos\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.pdb
+C:\Users\tjlik\source\repos\WeRnumberOne\WeRnumberOne\bin\Debug\FANNCSharp.dll
+C:\Users\tjlik\source\repos\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csprojAssemblyReference.cache
+C:\Users\tjlik\source\repos\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.Form1.resources
+C:\Users\tjlik\source\repos\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.Properties.Resources.resources
+C:\Users\tjlik\source\repos\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.GenerateResource.cache
+C:\Users\tjlik\source\repos\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.CoreCompileInputs.cache
+C:\Users\tjlik\source\repos\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.CopyComplete
+C:\Users\tjlik\source\repos\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.exe
+C:\Users\tjlik\source\repos\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.pdb
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.exe.config
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.exe
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.pdb
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\WeRnumberOne\WeRnumberOne\bin\Debug\FANNCSharp.dll
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csprojAssemblyReference.cache
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.Form1.resources
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.Properties.Resources.resources
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.GenerateResource.cache
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.CoreCompileInputs.cache
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.CopyComplete
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.exe
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.pdb
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.Info.resources
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.StartForm.resources
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.exe.config
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.exe
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.pdb
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne\WeRnumberOne\bin\Debug\FANNCSharp.dll
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.Properties.Resources.resources
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.StartForm.resources
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.GenerateResource.cache
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.CoreCompileInputs.cache
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.CopyComplete
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.exe
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.pdb
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\Мишуков\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.exe.config
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\Мишуков\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.exe
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\Мишуков\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.pdb
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\Мишуков\WeRnumberOne\WeRnumberOne\bin\Debug\FANNCSharp.dll
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csprojAssemblyReference.cache
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.Form1.resources
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.Info.resources
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.Properties.Resources.resources
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.StartForm.resources
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.GenerateResource.cache
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.CoreCompileInputs.cache
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.CopyComplete
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.exe
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\A_УЦВТ\Мишуков\Мишуков\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.pdb
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.exe.config
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.exe
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\WeRnumberOne\WeRnumberOne\bin\Debug\WeRnumberOne.pdb
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\WeRnumberOne\WeRnumberOne\bin\Debug\FANNCSharp.dll
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csprojAssemblyReference.cache
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.Form1.resources
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.Info.resources
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.Properties.Resources.resources
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.StartForm.resources
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.GenerateResource.cache
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.CoreCompileInputs.cache
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.CopyComplete
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.exe
+C:\Users\egorm\OneDrive\Рабочий стол\ \Коды\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.pdb
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.WeRnumberOne.resources
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne\WeRnumberOne\obj\Debug\WeRnumberOne.csprojAssemblyReference.cache
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne 12\WeRnumberOne\bin\Debug\WeRnumberOne.exe.config
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne 12\WeRnumberOne\bin\Debug\WeRnumberOne.exe
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne 12\WeRnumberOne\bin\Debug\WeRnumberOne.pdb
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne 12\WeRnumberOne\bin\Debug\FANNCSharp.dll
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne 12\WeRnumberOne\obj\Debug\WeRnumberOne.csprojAssemblyReference.cache
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne 12\WeRnumberOne\obj\Debug\WeRnumberOne.WeRnumberOne.resources
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne 12\WeRnumberOne\obj\Debug\WeRnumberOne.Properties.Resources.resources
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne 12\WeRnumberOne\obj\Debug\WeRnumberOne.StartForm.resources
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne 12\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.GenerateResource.cache
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne 12\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.CoreCompileInputs.cache
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne 12\WeRnumberOne\obj\Debug\WeRnumberOne.csproj.CopyComplete
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne 12\WeRnumberOne\obj\Debug\WeRnumberOne.exe
+C:\Users\tjlik\OneDrive\Рабочий стол\WeRnumberOne 12\WeRnumberOne\obj\Debug\WeRnumberOne.pdb
